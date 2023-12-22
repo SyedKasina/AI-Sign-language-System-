@@ -1,3 +1,4 @@
 # AI-Sign-language-System-
 The aim of this project is to recognize the gestures with highest accuracy and at least possible time and translate the Sign Language into corresponding text in a vision based setup.It then checks for various hand gesture conditions using the detected landmarks and displays text on the screen accordingly. 
+
 This application can potentially help dumb and deaf people to communicate more effectively and independently, and it could be a valuable tool for improving their quality of life. The ability to quickly and accurately translate text can save time, reduce language barriers, and improve communication.This project can be very useful for individuals who need to communicate with people who speak a different language, for businesses that need to translate documents, websites, or other materials, or for anyone who wants to learn a new language.
