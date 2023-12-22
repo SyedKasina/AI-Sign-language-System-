@@ -1,3 +1,5 @@
+![Screenshot (22)](https://github.com/SyedKasina/AI-Sign-language-System-/assets/88626712/224cfa3e-c0ba-427e-aedd-7d4d6db11813)
+![Screenshot (29)](https://github.com/SyedKasina/AI-Sign-language-System-/assets/88626712/4aec780d-8d2d-4730-af22-bc936dcb7194)
 # AI-Sign-language-System-
 The aim of this project is to recognize the gestures with highest accuracy and at least possible time and translate the Sign Language into corresponding text in a vision based setup.It then checks for various hand gesture conditions using the detected landmarks and displays text on the screen accordingly. 
 
